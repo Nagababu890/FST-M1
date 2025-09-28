@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Full Test Suite">
+    <test name="All Tests">
+        <classes>
+            <!-- ProjectActivity package -->
+            <class name="ProjectActivity.ProjectActivity1"/>
+            <class name="ProjectActivity.ProjectActivity2"/>
+            <class name="ProjectActivity.ProjectActivity3"/>
+            <class name="ProjectActivity.ProjectActivity4"/>
+            <class name="ProjectActivity.ProjectActivity5"/>
+            <class name="ProjectActivity.ProjectActivity6"/>
+            <class name="ProjectActivity.ProjectActivity7"/>
+            <class name="ProjectActivity.ProjectActivity8"/>
+            <class name="ProjectActivity.ProjectActivity9"/>
+            
+           
+        </classes>
+    </test>
+</suite>
